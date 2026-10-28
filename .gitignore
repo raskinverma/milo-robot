@@ -1,0 +1,20 @@
+# Virtual Environment
+robenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets & Local Databases
+.env
+*.sqlite3
+*.db
+*.json
+
+# Temporary media & local reference docs
+*.mp3
+*.wav
+*.pdf
+kek.html
